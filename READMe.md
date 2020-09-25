@@ -1,5 +1,3 @@
-# Git Cheatsheet
-
 ## References
 https://git-scm.com/docs
 
